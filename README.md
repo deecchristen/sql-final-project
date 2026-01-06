@@ -1,2 +1,2 @@
 # sql-final-project
-Final project for sql.
+For my final project I decided to look at NBA data.
